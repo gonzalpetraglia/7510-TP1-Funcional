@@ -20,7 +20,7 @@ https://8thlight.com/blog/colin-jones/2010/11/26/a-leiningen-tutorial.html
 https://github.com/technomancy/leiningen
 
 ## Run Tests
-lein test
+lein test -- Tests are not working with this command, try lein repl, paste all the content in the files , then run (run-all-tests)
 
 ## Run Repl
 lein repl
